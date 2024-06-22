@@ -1,4 +1,4 @@
-# JANGO Token Smart Contract
+# ETHBeginner
 
 ## Overview
 
@@ -52,10 +52,6 @@ This function burns tokens, effectively reducing the total supply.
 
 ### burning tokens :
 Ensure the address has a sufficient balance to cover the burn amount. The function will only execute if the balance of the specified address is greater than or equal to the amount to be burned.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Getting Started
 

@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple smart contract implemented in Solidity for a token named "JANGO" with the abbreviation "JGO". The contract includes functionalities to mint and burn tokens, manage balances, and keep track of the total supply. 
+The Token contract is a basic implementation of a token with minting and burning capabilities. It defines public variables for the token name ("JANGO"), abbreviation ("JGO"), and total supply. A mapping associates each address with its token balance. The mint function increases the total supply and the balance of a specified address, while the burn function decreases them, ensuring the address has enough tokens to burn. This contract provides essential functionalities for managing token supply and balances. 
 
 ## Contract Details
 

@@ -1,8 +1,8 @@
-# ETHBeginner
+# ETHBeginner PROJECT
 
-## Overview
+## Overview 
 
-The Token contract is a basic implementation of a token with minting and burning capabilities. It defines public variables for the token name ("JANGO"), abbreviation ("JGO"), and total supply. A mapping associates each address with its token balance. The mint function increases the total supply and the balance of a specified address, while the burn function decreases them, ensuring the address has enough tokens to burn. This contract provides essential functionalities for managing token supply and balances. 
+In this project i have created a contract named "TOKEN".Token contract is a basic implementation of a token with minting and burning capabilities. It defines public variables for the token name ("JANGO"), abbreviation ("JGO"), and total supply. A mapping associates each address with its token balance. The mint function increases the total supply and the balance of a specified address, while the burn function decreases them, ensuring the address has enough tokens to burn. This contract provides essential functionalities for managing token supply and balances. 
 
 ## Contract Details
 
